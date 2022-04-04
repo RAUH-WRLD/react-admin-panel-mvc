@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-admin-panel-mvc/static/css/main.ee09751e.css",
+    "main.js": "/react-admin-panel-mvc/static/js/main.c2dd1536.js",
+    "static/media/background.jpg": "/react-admin-panel-mvc/static/media/background.172bd9338f27cc4062b7.jpg",
+    "static/media/profit_info.svg": "/react-admin-panel-mvc/static/media/profit_info.ec4c90a88f2e8c6f39379d868065cff9.svg",
+    "static/media/users_info.svg": "/react-admin-panel-mvc/static/media/users_info.bd05596d52fa5f5bf718901c1d083f33.svg",
+    "static/media/cost_info.svg": "/react-admin-panel-mvc/static/media/cost_info.da40a5a487667f4c37be2ac23965ca3c.svg",
+    "static/media/resources_info.svg": "/react-admin-panel-mvc/static/media/resources_info.7812a07c6dcf8ff859620b9e8e9764ad.svg",
+    "static/media/options.svg": "/react-admin-panel-mvc/static/media/options.9dc072d2226da562f6a1983ba1e21016.svg",
+    "static/media/invoices.svg": "/react-admin-panel-mvc/static/media/invoices.fab3eadc9872f6b9ad73f7545b05dbf4.svg",
+    "static/media/clock.svg": "/react-admin-panel-mvc/static/media/clock.105f10864dcd146ba94cc9f8ea4994c0.svg",
+    "static/media/dashboard.svg": "/react-admin-panel-mvc/static/media/dashboard.a43b13237a335228363cbdf469f5c360.svg",
+    "static/media/domains.svg": "/react-admin-panel-mvc/static/media/domains.c6d9fdb6edb61e5afbe57d14c5e4f298.svg",
+    "static/media/seo_info.svg": "/react-admin-panel-mvc/static/media/seo_info.25ab48470264dead10f3b0dc96641013.svg",
+    "static/media/users.svg": "/react-admin-panel-mvc/static/media/users.98137577dcb08b51274340a3ca58b12a.svg",
+    "index.html": "/react-admin-panel-mvc/index.html",
+    "static/media/increase.svg": "/react-admin-panel-mvc/static/media/increase.32295cc089255d8ff03c2f92dc118b5a.svg",
+    "static/media/close.svg": "/react-admin-panel-mvc/static/media/close.99d7bcc7dc7df9e8bda5f489f5c99d24.svg",
+    "static/media/arrow_down.svg": "/react-admin-panel-mvc/static/media/arrow_down.0550b79641894857a7be8a5f7531b9f4.svg",
+    "static/media/checkmark.svg": "/react-admin-panel-mvc/static/media/checkmark.11304060c989cca51c49.svg"
+  },
+  "entrypoints": [
+    "static/css/main.ee09751e.css",
+    "static/js/main.c2dd1536.js"
+  ]
+}
